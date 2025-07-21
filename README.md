@@ -13,27 +13,36 @@ Apple_Plant_Disease_with_MobileNetV2_and_VGG16 Final.ipynb: Main Jupyter Noteboo
 The dataset used includes labeled images of:
 
   Apple Scab
+  
   Black Rot
+  
   Cedar Apple Rust
+  
   Healthy Apple Leaves
+  
 Dataset Source: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 # 🧠 Models Used
 ✅ MobileNetV2
     Lightweight and efficient CNN designed for mobile and edge devices.
     Transfer learning with include_top=False and custom classifier layers.
+    
 ✅ VGG16
     Deeper architecture with a series of convolution and max-pooling layers.
     Modified classifier layers appended for disease classification.
 
 # 📊 Evaluation Metrics
   Accuracy
+  
   Loss
 
 # 🧰 Technologies Used 
   Python
+  
   TensorFlow / Keras
+  
   Numpy, Matplotlib, Seaborn
+  
   Sklearn
 
 # 🤖 Use Case
