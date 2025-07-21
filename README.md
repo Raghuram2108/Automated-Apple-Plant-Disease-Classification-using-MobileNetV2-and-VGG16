@@ -20,7 +20,7 @@ The dataset used includes labeled images of:
   
   Healthy Apple Leaves
   
-Dataset Source: https://www.kaggle.com/datasets/emmarex/plantdisease
+Dataset Source: [PlantVillage Dataset](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
 
 # 🧠 Models Used
 ✅ MobileNetV2
